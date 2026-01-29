@@ -8,8 +8,8 @@ on:
         required: true
 
 env:
-  STAGE_REPO: docker.io/devopscube/web-app-stage
-  PROD_REPO: docker.io/devopscube/web-app-prod
+  STAGE_REPO: docker.io/catninjauser/web-app-stage
+  PROD_REPO: docker.io/catninjauser/web-app-prod
 
 jobs:
   promote:
