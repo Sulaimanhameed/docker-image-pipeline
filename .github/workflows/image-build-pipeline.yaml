@@ -5,7 +5,7 @@ on:
 
 
 env:
-  STAGE_REPO: docker.io/devopscube/web-app-stage
+  STAGE_REPO: docker.io/catninjauser/web-app-stage
 
 jobs:
   build_and_push:
